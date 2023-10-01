@@ -11,4 +11,4 @@ The City Search Web App is a user-friendly, interactive web application designed
 
 # Usage:
 
-Users can access the City Search Web App through its hosted URL ().
+Users can access the City Search Web App through: https://euclidespaulo.github.io/react-folder/
