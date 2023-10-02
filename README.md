@@ -1,27 +1,14 @@
-# React + TypeScript + Vite
+# Description:
+The City Search Web App is a user-friendly, interactive web application designed to help users find information about cities worldwide. It combines the power of React, TypeScript, and the ArcGIS JavaScript API to deliver a seamless and visually appealing experience. Users can easily search for cities by name and visualize their locations on an interactive map.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Key Features:
 
-Currently, two official plugins are available:
+- City Search: Users can enter the name of a city in the search bar to quickly find cities of interest.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive Map: The app features an interactive map powered by the ArcGIS JavaScript API, allowing users to explore city locations, zoom in and out, and pan across the map.
 
-## Expanding the ESLint configuration
+- Geocoding: The app utilizes the ArcGIS Geocoding service to convert city names into geographic coordinates for accurate mapping.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+# Usage:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Users can access the City Search Web App through: https://euclidespaulo.github.io/react-folder/
