@@ -19,7 +19,7 @@ const Mapview = () => {
         const view = new MapView ({
             map:map,
             container: mapRef.current,
-            center: [67, 39],
+            center: [66, 39],
             zoom: 10
         });
 
