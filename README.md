@@ -1,7 +1,7 @@
 # Description:
 The City Search Web App is a user-friendly, interactive web application designed to help users find information about cities worldwide. It combines the power of React, TypeScript, and the ArcGIS JavaScript API to deliver a seamless and visually appealing experience. Users can easily search for cities by name and visualize their locations on an interactive map.
 
-# Key Features:
+### Key Features:
 
 - City Search: Users can enter the name of a city in the search bar to quickly find cities of interest.
 
@@ -9,6 +9,6 @@ The City Search Web App is a user-friendly, interactive web application designed
 
 - Geocoding: The app utilizes the ArcGIS Geocoding service to convert city names into geographic coordinates for accurate mapping.
 
-# Usage:
+### Usage:
 
 Users can access the City Search Web App through:
